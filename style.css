@@ -39,6 +39,7 @@ nav{
     justify-content: space-between;
     align-items: center;
     text-align: center;
+    t
 }
 
 nav a{
@@ -46,6 +47,7 @@ nav a{
 	padding: 8px 8px 8px 8px;
 	font-size: 20pt;
 	text-decoration: none;
+	font-size:25px;
 }
 
 
